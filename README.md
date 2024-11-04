@@ -7,9 +7,9 @@ This repository contains ten folders with the following contents:
 
 - `1_Video_ADEL_Setup`: A video of ADEL setup while running showing the steps of the drop-cast electrode preparation.
 
-- `2_Planes_3D-printed-key-componets`: In this folder, the planes of the 3D printed key componets used for the setup are listed.
+- `2_Planes_3D-printed-key-componets`: The planes of the 3D printed key components used for the setup are listed in this folder.
 
-- `3_3D-printed-key-componets`: In this folder, the 3D design of each key componet is provided and could be directly 3D printed to reproduce the work.
+- `3_3D-printed-key-componets`: This folder contains the 3D design of each key component, which could be directly 3D printed to reproduce the work.
 
 -  `4_Viscosity_Evaluation`: the raw data of the viscosity test to measure the rheological behavior of the Glycerin/water mixtures and the slurry are provided.
 
