@@ -1,4 +1,3 @@
-MIT License
 Copyright (c) 2024 [CICenergiGUNE]
 Permission is hereby granted, free of charge, to any person obtaining a copy of this repository and associated documentation files (the "ADEL Setup"), to deal in the Hardware without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute and sublicense of the Hardware, subject to the following conditions:
 
@@ -9,4 +8,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 5. **Restrictions** – Users may not claim original authorship of this work, remove this license, or use the work in ways that violate applicable laws or regulations.
 
 For any inquiries regarding this license or usage permissions, please contact [mismail@cicenergigune.com].
- 
